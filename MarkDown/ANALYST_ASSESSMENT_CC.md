@@ -100,7 +100,7 @@ data_file.head()
     <tr>
       <th>0</th>
       <td>20190606</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>35-44</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -111,7 +111,7 @@ data_file.head()
     <tr>
       <th>1</th>
       <td>20190606</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>25-34</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -122,7 +122,7 @@ data_file.head()
     <tr>
       <th>2</th>
       <td>20190608</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>35-44</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -133,7 +133,7 @@ data_file.head()
     <tr>
       <th>3</th>
       <td>20190606</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>45-54</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -144,7 +144,7 @@ data_file.head()
     <tr>
       <th>4</th>
       <td>20190608</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>25-34</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -169,31 +169,31 @@ data_file['Page Title'].tail(25)
 
 
 
-    32730              What Causes Hair Damage? The 12 Worst Things You Can Do | Who What Wear UK
-    32731              21 Affordable Things From Chanel, Gucci, and Louis Vuitton | Who What Wear
-    32732                             The 28 Most Classic Nail Colors of All Time | Who What Wear
-    32733                             The Best Miami Summer Trends for Under $100 | Who What Wear
-    32734                      The East-West Engagement Ring Trend Is on the Rise | Who What Wear
-    32735                                 7 of the Best Brands for Summer Sandals | Who What Wear
-    32736          How to Become a Morning Person | The Latest Fitness, Health, and Wellness Tips
-    32737                       The 9 Most Daring Celebrity Bikini Trends of 2019 | Who What Wear
-    32738    The Best Morning Routine for Success | The Latest Fitness, Health, and Wellness Tips
-    32739                    5 Comfortable Workout Outfits That Are so Flattering | Who What Wear
-    32740                       Life Lessons Podcast Episode With Molly McNearney | Who What Wear
-    32741               Shopping Totes Will Be the Biggest Bag Trend of Fall 2019 | Who What Wear
-    32742               Shopping Totes Will Be the Biggest Bag Trend of Fall 2019 | Who What Wear
-    32743    The Best Morning Routine for Success | The Latest Fitness, Health, and Wellness Tips
-    32744               Irina Shayk Wore an Under-$100 Ref Dress With Ankle Boots | Who What Wear
-    32745            Sophie Turner Wore an Elegant White Dress Before Her Wedding | Who What Wear
-    32746                                                          Summer Dresses | Who What Wear
-    32747                  Emma Greenwell's Rules for Buying Dresses and Swimwear | Who What Wear
-    32748                         Jennifer Aniston Wore the Wedge-Heel Shoe Trend | Who What Wear
-    32749                                         Stylish Looks for Summer Nights | Who What Wear
-    32750                                            Summer Workout Outfit Trends | Who What Wear
-    32751                                  The Only Strapless Bra I WearäóîLively | Who What Wear
-    32752            Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wedding Rehearsal | Who What Wear
-    32753            Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wedding Rehearsal | Who What Wear
-    32754                               Louis Vuitton Bag Prices Around the World | Who What Wear
+    32730    What Causes Hair Damage? The 12 Worst Things Y...
+    32731    21 Affordable Things From Chanel, Gucci, and L...
+    32732    The 28 Most Classic Nail Colors of All Time | ...
+    32733    The Best Miami Summer Trends for Under $100 | ...
+    32734    The East-West Engagement Ring Trend Is on the ...
+    32735    7 of the Best Brands for Summer Sandals | Who ...
+    32736    How to Become a Morning Person | The Latest Fi...
+    32737    The 9 Most Daring Celebrity Bikini Trends of 2...
+    32738    The Best Morning Routine for Success | The Lat...
+    32739    5 Comfortable Workout Outfits That Are so Flat...
+    32740    Life Lessons Podcast Episode With Molly McNear...
+    32741    Shopping Totes Will Be the Biggest Bag Trend o...
+    32742    Shopping Totes Will Be the Biggest Bag Trend o...
+    32743    The Best Morning Routine for Success | The Lat...
+    32744    Irina Shayk Wore an Under-$100 Ref Dress With ...
+    32745    Sophie Turner Wore an Elegant White Dress Befo...
+    32746                       Summer Dresses | Who What Wear
+    32747    Emma Greenwell's Rules for Buying Dresses and ...
+    32748    Jennifer Aniston Wore the Wedge-Heel Shoe Tren...
+    32749      Stylish Looks for Summer Nights | Who What Wear
+    32750         Summer Workout Outfit Trends | Who What Wear
+    32751    The Only Strapless Bra I WearäóîLively | Who W...
+    32752    Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wed...
+    32753    Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wed...
+    32754    Louis Vuitton Bag Prices Around the World | Wh...
     Name: Page Title, dtype: object
 
 
@@ -222,12 +222,12 @@ new.tail(25)
   <tbody>
     <tr>
       <th>32730</th>
-      <td>What Causes Hair Damage? The 12 Worst Things You Can Do</td>
+      <td>What Causes Hair Damage? The 12 Worst Things Y...</td>
       <td>Who What Wear UK</td>
     </tr>
     <tr>
       <th>32731</th>
-      <td>21 Affordable Things From Chanel, Gucci, and Louis Vuitton</td>
+      <td>21 Affordable Things From Chanel, Gucci, and L...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -242,7 +242,7 @@ new.tail(25)
     </tr>
     <tr>
       <th>32734</th>
-      <td>The East-West Engagement Ring Trend Is on the Rise</td>
+      <td>The East-West Engagement Ring Trend Is on the ...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -257,7 +257,7 @@ new.tail(25)
     </tr>
     <tr>
       <th>32737</th>
-      <td>The 9 Most Daring Celebrity Bikini Trends of 2019</td>
+      <td>The 9 Most Daring Celebrity Bikini Trends of 2...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -267,22 +267,22 @@ new.tail(25)
     </tr>
     <tr>
       <th>32739</th>
-      <td>5 Comfortable Workout Outfits That Are so Flattering</td>
+      <td>5 Comfortable Workout Outfits That Are so Flat...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
       <th>32740</th>
-      <td>Life Lessons Podcast Episode With Molly McNearney</td>
+      <td>Life Lessons Podcast Episode With Molly McNear...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
       <th>32741</th>
-      <td>Shopping Totes Will Be the Biggest Bag Trend of Fall 2019</td>
+      <td>Shopping Totes Will Be the Biggest Bag Trend o...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
       <th>32742</th>
-      <td>Shopping Totes Will Be the Biggest Bag Trend of Fall 2019</td>
+      <td>Shopping Totes Will Be the Biggest Bag Trend o...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -292,12 +292,12 @@ new.tail(25)
     </tr>
     <tr>
       <th>32744</th>
-      <td>Irina Shayk Wore an Under-$100 Ref Dress With Ankle Boots</td>
+      <td>Irina Shayk Wore an Under-$100 Ref Dress With ...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
       <th>32745</th>
-      <td>Sophie Turner Wore an Elegant White Dress Before Her Wedding</td>
+      <td>Sophie Turner Wore an Elegant White Dress Befo...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -307,7 +307,7 @@ new.tail(25)
     </tr>
     <tr>
       <th>32747</th>
-      <td>Emma Greenwell's Rules for Buying Dresses and Swimwear</td>
+      <td>Emma Greenwell's Rules for Buying Dresses and ...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -332,12 +332,12 @@ new.tail(25)
     </tr>
     <tr>
       <th>32752</th>
-      <td>Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wedding Rehearsal</td>
+      <td>Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wed...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
       <th>32753</th>
-      <td>Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wedding Rehearsal</td>
+      <td>Zoí‚ Kravitz Wore Bike Shorts to Her Paris Wed...</td>
       <td>Who What Wear</td>
     </tr>
     <tr>
@@ -383,7 +383,7 @@ data_file.head()
     <tr>
       <th>0</th>
       <td>20190606</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>35-44</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -396,7 +396,7 @@ data_file.head()
     <tr>
       <th>1</th>
       <td>20190606</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>25-34</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -409,7 +409,7 @@ data_file.head()
     <tr>
       <th>2</th>
       <td>20190608</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>35-44</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -422,7 +422,7 @@ data_file.head()
     <tr>
       <th>3</th>
       <td>20190606</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>45-54</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -435,7 +435,7 @@ data_file.head()
     <tr>
       <th>4</th>
       <td>20190608</td>
-      <td>Chrissy Teigen Wore the Pleated-Jean Trend | Who What Wear</td>
+      <td>Chrissy Teigen Wore the Pleated-Jean Trend | W...</td>
       <td>25-34</td>
       <td>female</td>
       <td>m.facebook.com / referral</td>
@@ -911,7 +911,7 @@ titles.head()
   <tbody>
     <tr>
       <th>0</th>
-      <td>'80s Fashion Trends: 35 Iconic Looks From the Eighties</td>
+      <td>'80s Fashion Trends: 35 Iconic Looks From the ...</td>
       <td>1</td>
     </tr>
     <tr>
@@ -921,7 +921,7 @@ titles.head()
     </tr>
     <tr>
       <th>2</th>
-      <td>10 "Boring" Fashion Basics French Girls Always Have Handy</td>
+      <td>10 "Boring" Fashion Basics French Girls Always...</td>
       <td>6</td>
     </tr>
     <tr>
@@ -1055,7 +1055,7 @@ title_sort3.head()
     </tr>
     <tr>
       <th>424</th>
-      <td>Affordable Summer Fashion Trends From a Chic Houston Blogger</td>
+      <td>Affordable Summer Fashion Trends From a Chic H...</td>
       <td>253</td>
     </tr>
   </tbody>
@@ -1535,7 +1535,7 @@ data_file[27173:27176]
       <th>27173</th>
       <td>20190612</td>
       <td>2019-06-12</td>
-      <td>Courteney Cox and Her Daughter, Coco, Look Like Twins</td>
+      <td>Courteney Cox and Her Daughter, Coco, Look Lik...</td>
       <td>Who What Wear</td>
       <td>55-64</td>
       <td>female</td>
@@ -1559,7 +1559,7 @@ data_file[27173:27176]
       <th>27175</th>
       <td>20190613</td>
       <td>2019-06-13</td>
-      <td>The 16 Best Fashion and Beauty Items at Target, Hands Down</td>
+      <td>The 16 Best Fashion and Beauty Items at Target...</td>
       <td>Who What Wear</td>
       <td>45-54</td>
       <td>female</td>
@@ -1772,10 +1772,10 @@ data_file['Medium'].describe()
 data_file['Medium'] = data_file['Medium'].astype('category')
 medium_list = data_file.Medium.cat.categories.tolist()
 source_list
-#medium_list
-#medium = pd.crosstab(index=data_file['Medium'],columns="count") 
-#medium = medium.reset_index()
-#medium_sort = medium.sort_values(by=['count'], ascending=False)
+medium_list
+medium = pd.crosstab(index=data_file['Medium'],columns="count") 
+medium = medium.reset_index()
+medium_sort = medium.sort_values(by=['count'], ascending=False)
 medium_sort.head()
 ```
 
@@ -1855,7 +1855,7 @@ google.head()
       <th>141</th>
       <td>20190604</td>
       <td>2019-06-04</td>
-      <td>5 Summer Dress Trends That Will Be Everywhere This Season</td>
+      <td>5 Summer Dress Trends That Will Be Everywhere ...</td>
       <td>Who What Wear</td>
       <td>25-34</td>
       <td>female</td>
@@ -1907,7 +1907,7 @@ google.head()
       <th>240</th>
       <td>20190621</td>
       <td>2019-06-21</td>
-      <td>9 Summer Outfits Our Editors Wore to the Office This Month</td>
+      <td>9 Summer Outfits Our Editors Wore to the Offic...</td>
       <td>Who What Wear</td>
       <td>25-34</td>
       <td>female</td>
@@ -2202,8 +2202,8 @@ age3.describe()
 ```python
 topsite = data_file[data_file.Site == ' Who What Wear']
 topsite.head()
-#UK = data_file[data_file.Site == ' Who What WearUK']
-#UK.head()
+UK = data_file[data_file.Site == ' Who What WearUK']
+UK.head()
 ```
 
 
@@ -2231,7 +2231,7 @@ topsite.head()
       <th>75</th>
       <td>20190613</td>
       <td>2019-06-13</td>
-      <td>The Best Ways to Apply Blush for Every Face Shape</td>
+      <td>The Best Ways to Apply Blush for Every Face Sh...</td>
       <td>Who What WearUK</td>
       <td>35-44</td>
       <td>female</td>
@@ -2244,7 +2244,7 @@ topsite.head()
       <th>115</th>
       <td>20190613</td>
       <td>2019-06-13</td>
-      <td>The Best Ways to Apply Blush for Every Face Shape</td>
+      <td>The Best Ways to Apply Blush for Every Face Sh...</td>
       <td>Who What WearUK</td>
       <td>45-54</td>
       <td>female</td>
@@ -2257,7 +2257,7 @@ topsite.head()
       <th>249</th>
       <td>20190613</td>
       <td>2019-06-13</td>
-      <td>The Best Ways to Apply Blush for Every Face Shape</td>
+      <td>The Best Ways to Apply Blush for Every Face Sh...</td>
       <td>Who What WearUK</td>
       <td>55-64</td>
       <td>female</td>
@@ -2270,7 +2270,7 @@ topsite.head()
       <th>314</th>
       <td>20190613</td>
       <td>2019-06-13</td>
-      <td>The Best Ways to Apply Blush for Every Face Shape</td>
+      <td>The Best Ways to Apply Blush for Every Face Sh...</td>
       <td>Who What WearUK</td>
       <td>25-34</td>
       <td>female</td>
@@ -2302,7 +2302,7 @@ topsite.head()
 ```python
 #pull the some entires based on our word cloud
 term = 'Celebrity'
-celeb_titles = [i for i in data_file.Page_Title if terms in i] 
+celeb_titles = [i for i in data_file.Page_Title if term in i] 
 celeb_titles[0:5]
 #can add to list later on
 ```
@@ -2397,7 +2397,6 @@ JuneTwentyEight.describe()
 
 ### <a name="bus"></a> III. BUSINESS INTERESTS
 ---
-__ use this section to do some stats analysis__
 
 - WHO IS OUR AUDIENCE?
 	
@@ -2886,6 +2885,21 @@ bottom_page.info()
     Unique Pageviews    8199 non-null int64
     dtypes: category(5), datetime64[ns](1), int64(3), object(1)
     memory usage: 425.1+ KB
+    <class 'pandas.core.frame.DataFrame'>
+    Int64Index: 8222 entries, 24533 to 32754
+    Data columns (total 10 columns):
+    date                8222 non-null int64
+    new_date            8222 non-null datetime64[ns]
+    Page_Title          8222 non-null object
+    Site                8222 non-null category
+    age                 8222 non-null category
+    gender              8222 non-null category
+    Source              8222 non-null category
+    Medium              8222 non-null category
+    pageviews           8222 non-null int64
+    Unique Pageviews    8222 non-null int64
+    dtypes: category(5), datetime64[ns](1), int64(3), object(1)
+    memory usage: 426.3+ KB
 
 
 
@@ -3553,8 +3567,7 @@ WHAT DOES IT MEAN IN CONTEXT? <BR>
 In June 2019, the articles seems to be attracting female customers older than 24. In terms of content, it seems like the more specific the article the better. Engagement is higher for articles with specific celebrity names (Jennifer Lopez or Chrissy Teigan) and seasons (Summer Trends) versus those with more generalized themes and verbiage. This is interesting to note because the word "celebrity" was one of the most frequent words used in titles from our dataset. While our most popular source in the dataset was "google", the source that had the most engagement was "Facebook Mobile". It would be interesting to compare this months data against other months to see if these themes hold true and constant. 
 
 __bonus! not requested, but color me curious. 
-what kind of males are looking at clique brands?
-what are they looking at?__
+what males are looking at on clique brands?__
 
 
 ```python
@@ -3706,41 +3719,20 @@ male_titles_sort.head()
 #
 top_page2 = male[male.pageviews >= 130.0]
 top_page2.info()
-
-bottom_page2 = male[male.pageviews <= 25.0]
-bottom_page2.info()
 ```
 
-    <class 'pandas.core.frame.DataFrame'>
-    Int64Index: 1093 entries, 124 to 19043
-    Data columns (total 10 columns):
-    date                1093 non-null int64
-    new_date            1093 non-null datetime64[ns]
-    Page_Title          1093 non-null object
-    Site                1093 non-null category
-    age                 1093 non-null category
-    gender              1093 non-null category
-    Source              1093 non-null category
-    Medium              1093 non-null category
-    pageviews           1093 non-null int64
-    Unique Pageviews    1093 non-null int64
-    dtypes: category(5), datetime64[ns](1), int64(3), object(1)
-    memory usage: 57.3+ KB
-    <class 'pandas.core.frame.DataFrame'>
-    Int64Index: 761 entries, 29269 to 32753
-    Data columns (total 10 columns):
-    date                761 non-null int64
-    new_date            761 non-null datetime64[ns]
-    Page_Title          761 non-null object
-    Site                761 non-null category
-    age                 761 non-null category
-    gender              761 non-null category
-    Source              761 non-null category
-    Medium              761 non-null category
-    pageviews           761 non-null int64
-    Unique Pageviews    761 non-null int64
-    dtypes: category(5), datetime64[ns](1), int64(3), object(1)
-    memory usage: 40.1+ KB
+
+    ---------------------------------------------------------------------------
+
+    NameError                                 Traceback (most recent call last)
+
+    <ipython-input-1-bc20c5c6450f> in <module>()
+          1 #
+    ----> 2 top_page2 = male[male.pageviews >= 130.0]
+          3 top_page2.info()
+
+
+    NameError: name 'male' is not defined
 
 
 
@@ -3757,22 +3749,6 @@ plt.show()
 
 
 ![png](output_98_0.png)
-
-
-
-```python
-#wordcloud library seems faulty, need to load in at each run
-from wordcloud import wordcloud
-text = " ".join(review for review in bottom_page2.Page_Title)
-wordcloud = wordcloud.WordCloud(background_color="white").generate(text)
-plt.imshow(wordcloud, interpolation='bilinear')
-plt.axis("off")
-plt.title("Lowest Pageviews for Males")
-plt.show()
-```
-
-
-![png](output_99_0.png)
 
 
 Lol seems like there is some male interest in Flattering Every Body Type and Treggings (what are those?)
