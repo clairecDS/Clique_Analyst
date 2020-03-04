@@ -3721,18 +3721,21 @@ top_page2 = male[male.pageviews >= 130.0]
 top_page2.info()
 ```
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-1-bc20c5c6450f> in <module>()
-          1 #
-    ----> 2 top_page2 = male[male.pageviews >= 130.0]
-          3 top_page2.info()
-
-
-    NameError: name 'male' is not defined
+    <class 'pandas.core.frame.DataFrame'>
+    Int64Index: 1093 entries, 124 to 19043
+    Data columns (total 10 columns):
+    date                1093 non-null int64
+    new_date            1093 non-null datetime64[ns]
+    Page_Title          1093 non-null object
+    Site                1093 non-null category
+    age                 1093 non-null category
+    gender              1093 non-null category
+    Source              1093 non-null category
+    Medium              1093 non-null category
+    pageviews           1093 non-null int64
+    Unique Pageviews    1093 non-null int64
+    dtypes: category(5), datetime64[ns](1), int64(3), object(1)
+    memory usage: 57.3+ KB
 
 
 
